@@ -1,0 +1,30 @@
+.amplify-ai-conversation {
+  align-items: center;
+  width: 600px;
+}
+
+.amplify-ai-conversation__message__list {
+  align-items: center;
+  width: 600px;
+}
+
+.amplify-ai-conversation__message--assistant {
+  background-color: bisque;
+  border-radius: 0.5rem;
+  width: 600px;
+}
+
+.amplify-ai-conversation__message--user {
+  background-color: yellowgreen;
+  margin: 1rem 0;
+  border-radius: 0.5rem;
+  width: 600px;
+}
+
+.amplify-ai-conversation__form {
+  background-color: white;
+  position: fixed;
+  bottom: 0;
+  width: 600px;
+  padding: 16px;
+}
